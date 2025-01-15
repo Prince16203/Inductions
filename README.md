@@ -1,5 +1,3 @@
-# README
-
 ## Repository Overview
 
 This repository consists of two folders:
