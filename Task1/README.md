@@ -1,6 +1,6 @@
-## Repository Overview
+## Overview
 
-This repository consists of two folders:
+This folder consists of 2 subfolders
 
 1. **Folder 1: Subtask 1 - CNN Model for AI vs Real Image Classification**
    - Description: This folder contains a Convolutional Neural Network (CNN) model trained on a provided dataset to classify images as either AI-generated or real. The model is implemented using a sequential architecture.
