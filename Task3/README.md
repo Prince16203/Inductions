@@ -4,12 +4,6 @@ This project demonstrates how to fine-tune GPT-2 for generating natural, human-l
 
 ---
 
-## Introduction
-
-The goal of this project is to fine-tune OpenAI's GPT-2 model to simulate natural dialogues between two individuals. By using a structured conversational dataset, the fine-tuned model learns to respond contextually, mimicking human-like interactions.
-
----
-
 ## Features
 
 - **Pretrained GPT-2:** Fine-tunes the GPT-2 model for dialogue generation.  
