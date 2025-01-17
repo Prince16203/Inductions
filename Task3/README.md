@@ -43,7 +43,7 @@ Person2: Glad to hear that!
 The fine-tuned model weights have been uploaded to a public Hugging Face account for accessibility.
 
 ### Hugging Face Model Link
-(stevestarc16/LLM_cynaptics)
+[stevestarc16/LLM_cynaptics](https://huggingface.co/stevestarc16/LLM_cynaptics)
 
 ## Training Process
 
