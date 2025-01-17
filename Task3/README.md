@@ -1,7 +1,6 @@
 # Conversational AI with Fine-Tuned GPT-2
 
-This project demonstrates how to fine-tune GPT-2 for generating natural, human-like conversations between two individuals. The resulting model can be used in chatbots, virtual assistants, or any application requiring realistic conversational AI.
-
+This project demonstrates how to fine-tune GPT-2 for generating natural, human-like conversations between two individuals. 
 ---
 
 ## Features
