@@ -1,6 +1,6 @@
 # Conversational AI with Fine-Tuned GPT-2
 
-## This project demonstrates how to fine-tune GPT-2 for generating natural, human-like conversations between two individuals. 
+### This project demonstrates how to fine-tune GPT-2 for generating natural, human-like conversations between two individuals. 
 ---
 
 ## Features
